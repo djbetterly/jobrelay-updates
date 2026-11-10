@@ -3,15 +3,15 @@
     <channel>
         <title>JobRelay</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Mon, 09 Nov 2026 19:44:52 -0500</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Mon, 09 Nov 2026 21:25:43 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Signed and notarized</p>
+            <description><![CDATA[<p>Notifications and email alerts</p>
 ]]></description>
-            <enclosure url="https://github.com/djbetterly/jobrelay-updates/releases/download/v1.1-7/JobRelay-1.1-7.zip" length="2199137" type="application/octet-stream" sparkle:edSignature="iS2nt7JBKD61Ts72LF6mpqvbtDEacecJocB0LIFxbPOvEEw3RKkQGJc4lKrfP5RzQ/8z8NyWwLZM7gF8Sg8lBQ=="/>
+            <enclosure url="https://github.com/djbetterly/jobrelay-updates/releases/download/v1.2-8/JobRelay-1.2-8.zip" length="2239959" type="application/octet-stream" sparkle:edSignature="UYWPoO0NoRx4uI9w/5BdIFhoyEkbfMQHMud+eUd4uzEcz34TepOMs9itByTaffChbX0+eTD1/pLxtv4zRQXqAQ=="/>
         </item>
     </channel>
 </rss>

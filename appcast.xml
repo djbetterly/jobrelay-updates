@@ -4,14 +4,14 @@
         <title>JobRelay</title>
         <item>
             <title>1.2</title>
-            <pubDate>Mon, 09 Nov 2026 21:25:43 -0500</pubDate>
-            <sparkle:version>8</sparkle:version>
+            <pubDate>Tue, 10 Nov 2026 14:54:22 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Notifications and email alerts</p>
+            <description><![CDATA[<p>Alerts and a steady time-left estimate</p>
 ]]></description>
-            <enclosure url="https://github.com/djbetterly/jobrelay-updates/releases/download/v1.2-8/JobRelay-1.2-8.zip" length="2239959" type="application/octet-stream" sparkle:edSignature="UYWPoO0NoRx4uI9w/5BdIFhoyEkbfMQHMud+eUd4uzEcz34TepOMs9itByTaffChbX0+eTD1/pLxtv4zRQXqAQ=="/>
+            <enclosure url="https://github.com/djbetterly/jobrelay-updates/releases/download/v1.2-9/JobRelay-1.2-9.zip" length="2251873" type="application/octet-stream" sparkle:edSignature="2RlXsC+s4jsSMNuy/Dtobi9DdYxswuKZkz84vTA3RcqA4kXHZdPfIBi/KQYGu/wh0G9bRZbNaSVXqgpK0f8gBA=="/>
         </item>
     </channel>
 </rss>
